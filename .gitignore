@@ -1,0 +1,4 @@
+.DS_Store
+/exit.o
+/exit.s
+*.dSYM
