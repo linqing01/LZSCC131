@@ -1,7 +1,3 @@
-;; nasm -fmacho64 maxofthree.asm
-;; cc maxofthree.o
-;; ./a.out
-
         global  _maxofthree
         section .text
 _maxofthree:

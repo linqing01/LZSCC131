@@ -2,6 +2,7 @@
  * nasm -fmacho64 maxofthree.asm
  * cc maxofthree.o callmaxofthree.c
  * ./a.out
+ * 
  */ 
 
  #include <stdio.h>
